@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1366" height="660" viewBox="0 0 1366 660" role="img" aria-labelledby="title desc">
+<title id="title">Deepak Reddy GitHub terminal profile</title>
+<desc id="desc">Terminal-style GitHub profile card with an ASCII portrait and colored profile information.</desc>
+<rect x="1" y="1" width="1364" height="658" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<style>
+text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace; font-size: 15px; }
+.ascii { fill: #e6edf3; } .blue { fill: #58a6ff; } .orange { fill: #ff9d00; } .white { fill: #e6edf3; } .muted { fill: #8b949e; } .line { stroke: #30363d; stroke-width: 1; }
+</style>
+<text class="ascii" x="28" y="47" xml:space="preserve">                         %##***#%</text>
+<text class="ascii" x="28" y="66" xml:space="preserve">                     #+=-::..::-::=*%</text>
+<text class="ascii" x="28" y="85" xml:space="preserve">                  #=:.....:::::::::.:+*#%</text>
+<text class="ascii" x="28" y="104" xml:space="preserve">                 +  .....::..::::::-....:=%</text>
+<text class="ascii" x="28" y="123" xml:space="preserve">                # .......::::.::::::::::..-</text>
+<text class="ascii" x="28" y="142" xml:space="preserve">                + .   .......:....:::::.::-</text>
+<text class="ascii" x="28" y="161" xml:space="preserve">                 :     .....::----:--::-::#</text>
+<text class="ascii" x="28" y="180" xml:space="preserve">                 = .::-=+++++*#####%#=:-:*</text>
+<text class="ascii" x="28" y="199" xml:space="preserve">                 + ---==+*#####***##%#+--</text>
+<text class="ascii" x="28" y="218" xml:space="preserve">                 *.-::::::-+*+=--=+*#%*:+</text>
+<text class="ascii" x="28" y="237" xml:space="preserve">                 -:----=+-:+#*++=+**#%*+##</text>
+<text class="ascii" x="28" y="256" xml:space="preserve">                =:=+***+==*%##*#%%%%%###%</text>
+<text class="ascii" x="28" y="275" xml:space="preserve">                 %:-+*#*=--=*+**+##%%####</text>
+<text class="ascii" x="28" y="294" xml:space="preserve">                  =:=+=--:-=++++=+*####%</text>
+<text class="ascii" x="28" y="313" xml:space="preserve">                   +:=---+*#%%#+=+####</text>
+<text class="ascii" x="28" y="332" xml:space="preserve">                    +:-=--+***###*##**</text>
+<text class="ascii" x="28" y="351" xml:space="preserve">                     #-:==++**####***#</text>
+<text class="ascii" x="28" y="370" xml:space="preserve">                      -:=++++******###</text>
+<text class="ascii" x="28" y="389" xml:space="preserve">                       +.::--=++**######@%%</text>
+<text class="ascii" x="28" y="408" xml:space="preserve">                       =:---+**########%%%%#%%%%</text>
+<text class="ascii" x="28" y="427" xml:space="preserve">                     =::--==+**######%%%%#%%%%*#%</text>
+<text class="ascii" x="28" y="446" xml:space="preserve">              %%####*==---=++****##%%%%%##%%%##########%%%</text>
+<text class="ascii" x="28" y="465" xml:space="preserve">         %%%#########*+====+***##%%%%%%%##%%%######*####%%%%</text>
+<text class="ascii" x="28" y="484" xml:space="preserve">      %###%%%%%#####%%%%###%%%%%%%%%%#%#%%%%######*###*#%%%%</text>
+<text class="ascii" x="28" y="503" xml:space="preserve">     ###%%%%%%#########%%%%%%%##%%#%%###%%%######*#%#**%#%%%</text>
+<text class="ascii" x="28" y="522" xml:space="preserve">    #*#%%%##%%#%###############%%%#%%%####%%###%##%%#*#%#%%%</text>
+<text class="ascii" x="28" y="541" xml:space="preserve">   %*##%%##*%%##%####%#%%#####%%%##%%####%%%%%%#*%%%#*%##%#%</text>
+<text class="ascii" x="28" y="560" xml:space="preserve">   %**#%%##*#%#######%%%%###%##%%##%########%##*%%#%#*%##%#%</text>
+<text class="ascii" x="28" y="579" xml:space="preserve">   %#**#%##**#######%%%%%#%%%#%#===####%***#*+*##**%##%#%##%</text>
+<text class="blue" x="670" y="190">Deepakreddy1510@github</text>
+<line class="line" x1="950" y1="184" x2="1288" y2="184"/>
+<text class="orange" x="670" y="218">· Uptime:</text>
+<text class="muted" x="822" y="218">················</text>
+<text class="white" x="970" y="218">2 years, 8 months, 18 days</text>
+<text class="orange" x="670" y="242">· OS:</text>
+<text class="muted" x="822" y="242">················</text>
+<text class="white" x="970" y="242">Windows 11, Linux</text>
+<text class="orange" x="670" y="266">· Location:</text>
+<text class="muted" x="822" y="266">················</text>
+<text class="white" x="970" y="266">Sangareddy, Telangana, India</text>
+<text class="orange" x="670" y="290">· Company:</text>
+<text class="muted" x="822" y="290">················</text>
+<text class="white" x="940" y="290">Indian Institute of Technology Hyderabad</text>
+<text class="orange" x="670" y="314">· Programming:</text>
+<text class="muted" x="822" y="314">················</text>
+<text class="white" x="940" y="314">C++, Python, SQL</text>
+<text class="orange" x="670" y="338">· Computer:</text>
+<text class="muted" x="822" y="338">················</text>
+<text class="white" x="940" y="338">JSON, LaTeX, YAML</text>
+<text class="orange" x="670" y="362">· Real:</text>
+<text class="muted" x="822" y="362">················</text>
+<text class="white" x="970" y="362">English, Hindi, Telugu</text>
+<text class="orange" x="670" y="386">· Tools:</text>
+<text class="muted" x="822" y="386">················</text>
+<text class="white" x="970" y="386">Docker, Git</text>
+<text class="blue" x="670" y="430">Contact</text>
+<line class="line" x1="765" y1="424" x2="1288" y2="424"/>
+<text class="orange" x="670" y="458">· GitHub:</text>
+<text class="muted" x="822" y="458">················</text>
+<text class="white" x="985" y="458">github.com/Deepakreddy1510</text>
+<text class="orange" x="670" y="482">· Email:</text>
+<text class="muted" x="822" y="482">················</text>
+<text class="white" x="960" y="482">deepakreddy1510@gmail.com</text>
+<text class="orange" x="670" y="506">· College:</text>
+<text class="muted" x="822" y="506">················</text>
+<text class="white" x="960" y="506">ee23btech11047@iith.ac.in</text>
+<text class="orange" x="670" y="530">· LinkedIn:</text>
+<text class="muted" x="822" y="530">················</text>
+<text class="white" x="960" y="530">Deepak Reddy</text>
+<text class="blue" x="670" y="570">GitHub Stats</text>
+<line class="line" x1="798" y1="564" x2="1288" y2="564"/>
+<text class="orange" x="670" y="600">· Repos:</text>
+<text class="muted" x="770" y="600">········</text>
+<text class="blue" x="895" y="600">26</text>
+<text class="muted" x="945" y="600">|</text>
+<text class="orange" x="975" y="600">· Commits:</text>
+<text class="muted" x="1100" y="600">······</text>
+<text class="blue" x="1185" y="600">422</text>
+<text class="orange" x="670" y="630">· Followers:</text>
+<text class="muted" x="805" y="630">······</text>
+<text class="blue" x="895" y="630">2</text>
+<text class="muted" x="945" y="630">|</text>
+<text class="orange" x="975" y="630">· Stars:</text>
+<text class="muted" x="1075" y="630">······</text>
+<text class="blue" x="1185" y="630">1</text>
+</svg>
