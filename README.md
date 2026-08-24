@@ -33,7 +33,7 @@ I enjoy **building practical products and AI-powered systems** that turn ideas i
 
 ---
 
-## Featured Projects
+## Projects
 
 ### PDF RAG Assistant — Multi-Document Retrieval-Augmented Generation
 
