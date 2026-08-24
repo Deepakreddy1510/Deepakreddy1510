@@ -2,7 +2,7 @@
   <img src="./terminal-profile.svg" alt="P Deepak Reddy GitHub terminal profile" width="100%" />
 </p>
 
-# Hi, I'm P Deepak Reddy
+# Hi, I'm Deepak
 
 **Electrical Engineering Undergraduate at Indian Institute of Technology (IIT), Hyderabad**
 
@@ -37,12 +37,13 @@ I enjoy **building practical products and AI-powered systems** that turn ideas i
 
 ### PDF RAG Assistant — Multi-Document Retrieval-Augmented Generation
 
-A multi-document **Retrieval-Augmented Generation (RAG)** system that allows users to upload PDF documents, ask natural-language questions, and receive answers grounded in the uploaded content with source citations.
+A multi-document **Retrieval-Augmented Generation (RAG)** system that enables users to upload PDF documents, ask natural-language questions, and receive accurate, context-grounded answers with source citations.
 
-- Built a **page-aware PDF ingestion and chunking pipeline** with semantic embeddings using **BAAI/bge-small-en-v1.5** and vector storage in **PostgreSQL + pgvector**.
-- Implemented **Dense Retrieval + CrossEncoder reranking** and achieved **Hit@5 = 1.000** and **MRR = 1.000** in retrieval evaluation.
-- Integrated **Groq / Gemini** for grounded answer generation with document and page citations, including refusal when the uploaded files do not contain enough evidence.
-- Developed an interactive **Streamlit** interface and containerized the project using **Docker** for reproducible local setup.
+* **Engineered** a **page-aware PDF ingestion and chunking pipeline** using **BAAI/bge-small-en-v1.5** embeddings with **PostgreSQL + pgvector**, enabling efficient semantic retrieval while preserving page-level source information.
+* **Optimized** document retrieval using **Dense Retrieval + CrossEncoder reranking**, achieving **Hit@5 = 1.000** and **MRR = 1.000** for highly accurate retrieval of relevant document chunks.
+* **Integrated** **Groq / Gemini** for grounded answer generation using retrieved context and page citations, reducing unsupported responses by refusing to answer when sufficient evidence is unavailable.
+* **Developed** an interactive **Streamlit** application and containerized the system with **Docker**, enabling users to upload, index, and query multiple documents through a reproducible local environment.
+
 
 **Tech:** `Python` · `PostgreSQL` · `pgvector` · `BGE Embeddings` · `CrossEncoder` · `Groq` · `Gemini` · `Streamlit` · `Docker`
 
@@ -58,6 +59,4 @@ A multi-document **Retrieval-Augmented Generation (RAG)** system that allows use
 
 ---
 
-<p align="center">
-  <i>Building, learning, and exploring intelligent systems one project at a time.</i>
-</p>
+
