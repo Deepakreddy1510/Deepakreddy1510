@@ -32,6 +32,19 @@ Passionate engineer interested in **AI, Machine Learning, Generative AI**, with 
 
 ## Projects
 
+
+### AI Data Agent — Multi-Agent SQL and ETL Automation
+
+An intelligent **multi-agent data system** that understands natural-language requests and automatically routes them to specialized agents for **SQL analysis** or **ETL workflows**.
+
+* **Engineered** a **router-based multi-agent architecture** using **LangGraph, LangChain, and Pydantic**, automatically classifying natural-language requests as SQL or ETL tasks and delegating them to specialized agents for end-to-end execution.
+* **Automated** natural-language database analysis by combining **PostgreSQL schema discovery, GPT-OSS SQL generation, safety validation, and query execution**, enabling users to retrieve database insights without manually writing SQL.
+* **Developed** an LLM-driven **ETL tool-calling workflow** using **Groq, GPT-OSS, Pandas, and external APIs**, enabling automatic data extraction and dynamic transformation of datasets from plain-English instructions.
+
+**Tech:** `Python` · `LangGraph` · `LangChain` · `Groq` · `GPT-OSS` · `PostgreSQL` · `Pandas` · `Pydantic`
+
+---
+
 ### PDF RAG Assistant — Multi-Document Retrieval-Augmented Generation
 
 A multi-document **Retrieval-Augmented Generation (RAG)** system that enables users to upload PDF documents, ask natural-language questions, and receive accurate, context-grounded answers with source citations.
