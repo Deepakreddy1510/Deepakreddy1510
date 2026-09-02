@@ -41,14 +41,14 @@ text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liber
 <text class="muted" x="822" y="242">················</text>
 <text class="white" x="970" y="242">Windows 11</text>
 <text class="orange" x="670" y="264">· Languages.Programming:</text>
-<text class="muted" x="822" y="264">················</text>
-<text class="white" x="940" y="264">Python, C++, SQL</text>
+<text class="muted" x="870" y="264">················</text>
+<text class="white" x="1006" y="264">Python, C++, SQL</text>
 <text class="orange" x="670" y="288">· Languages.Computer:</text>
-<text class="muted" x="822" y="288">················</text>
-<text class="white" x="940" y="288">JSON, LaTeX, YAML</text>
+<text class="muted" x="852" y="288">················</text>
+<text class="white" x="1000" y="288">JSON, LaTeX, YAML</text>
 <text class="orange" x="670" y="312">· Languages.Real:</text>
 <text class="muted" x="822" y="312">················</text>
-<text class="white" x="970" y="312">English, Hindi, Telugu</text>
+<text class="white" x="980" y="312">English, Hindi, Telugu</text>
 <text class="orange" x="670" y="336">· Tools:</text>
 <text class="muted" x="822" y="336">················</text>
 <text class="white" x="970" y="336">Docker, Git, pgAdmin</text>
@@ -57,7 +57,7 @@ text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liber
 <line class="line" x1="765" y1="424" x2="1288" y2="424"/>
 <text class="orange" x="670" y="458">· GitHub:</text>
 <text class="muted" x="822" y="458">················</text>
-<text class="white" x="985" y="458">github.com/Deepakreddy1510</text>
+<text class="white" x="960" y="458">github.com/Deepakreddy1510</text>
 <text class="orange" x="670" y="482">· Email.Personl:</text>
 <text class="muted" x="822" y="482">················</text>
 <text class="white" x="960" y="482">deepakreddy1510@gmail.com</text>
@@ -72,5 +72,4 @@ text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liber
 <text class="orange" x="670" y="600">· Repos:</text>
 <text class="muted" x="770" y="600">········</text>
 <text class="blue" x="895" y="600">28</text>
-<text class="muted" x="945" y="600">|</text>
 </svg>
