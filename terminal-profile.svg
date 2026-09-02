@@ -39,10 +39,10 @@ text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liber
 <line class="line" x1="950" y1="184" x2="1288" y2="184"/>
 <text class="orange" x="670" y="242">· OS:</text>
 <text class="muted" x="822" y="242">················</text>
-<text class="white" x="970" y="242">Windows 11, Linux</text>
+<text class="white" x="970" y="242">Windows 11</text>
 <text class="orange" x="670" y="264">· Languages.Programming:</text>
 <text class="muted" x="822" y="264">················</text>
-<text class="white" x="940" y="264">C++, Python, SQL</text>
+<text class="white" x="940" y="264">Python, C++, SQL</text>
 <text class="orange" x="670" y="288">· Languages.Computer:</text>
 <text class="muted" x="822" y="288">················</text>
 <text class="white" x="940" y="288">JSON, LaTeX, YAML</text>
@@ -51,7 +51,7 @@ text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liber
 <text class="white" x="970" y="312">English, Hindi, Telugu</text>
 <text class="orange" x="670" y="336">· Tools:</text>
 <text class="muted" x="822" y="336">················</text>
-<text class="white" x="970" y="336">Docker, Git</text>
+<text class="white" x="970" y="336">Docker, Git, pgAdmin</text>
 <text class="muted" x="200" y="290">················</text> 
 <text class="blue" x="670" y="430">Contact</text>
 <line class="line" x1="765" y1="424" x2="1288" y2="424"/>
@@ -71,9 +71,6 @@ text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liber
 <line class="line" x1="798" y1="564" x2="1288" y2="564"/>
 <text class="orange" x="670" y="600">· Repos:</text>
 <text class="muted" x="770" y="600">········</text>
-<text class="blue" x="895" y="600">26</text>
+<text class="blue" x="895" y="600">28</text>
 <text class="muted" x="945" y="600">|</text>
-<text class="orange" x="975" y="600">· Commits:</text>
-<text class="muted" x="1100" y="600">······</text>
-<text class="blue" x="1185" y="600">422</text>
 </svg>
