@@ -1,75 +1,186 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1366" height="660" viewBox="0 0 1366 660" role="img" aria-labelledby="title desc">
-<title id="title">Deepak Reddy GitHub terminal profile</title>
-<desc id="desc">Terminal-style GitHub profile card with an ASCII portrait and colored profile information.</desc>
-<rect x="1" y="1" width="1364" height="658" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
-<style>
-text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace; font-size: 15px; }
-.ascii { fill: #e6edf3; } .blue { fill: #58a6ff; } .orange { fill: #ff9d00; } .white { fill: #e6edf3; } .muted { fill: #8b949e; } .line { stroke: #30363d; stroke-width: 1; }
-</style>
-<text class="ascii" x="28" y="47" xml:space="preserve">                         %##***#%</text>
-<text class="ascii" x="28" y="66" xml:space="preserve">                     #+=-::..::-::=*%</text>
-<text class="ascii" x="28" y="85" xml:space="preserve">                  #=:.....:::::::::.:+*#%</text>
-<text class="ascii" x="28" y="104" xml:space="preserve">                 +  .....::..::::::-....:=%</text>
-<text class="ascii" x="28" y="123" xml:space="preserve">                # .......::::.::::::::::..-</text>
-<text class="ascii" x="28" y="142" xml:space="preserve">                + .   .......:....:::::.::-</text>
-<text class="ascii" x="28" y="161" xml:space="preserve">                 :     .....::----:--::-::#</text>
-<text class="ascii" x="28" y="180" xml:space="preserve">                 = .::-=+++++*#####%#=:-:*</text>
-<text class="ascii" x="28" y="199" xml:space="preserve">                 + ---==+*#####***##%#+--</text>
-<text class="ascii" x="28" y="218" xml:space="preserve">                 *.-::::::-+*+=--=+*#%*:+</text>
-<text class="ascii" x="28" y="237" xml:space="preserve">                 -:----=+-:+#*++=+**#%*+##</text>
-<text class="ascii" x="28" y="256" xml:space="preserve">                =:=+***+==*%##*#%%%%%###%</text>
-<text class="ascii" x="28" y="275" xml:space="preserve">                 %:-+*#*=--=*+**+##%%####</text>
-<text class="ascii" x="28" y="294" xml:space="preserve">                  =:=+=--:-=++++=+*####%</text>
-<text class="ascii" x="28" y="313" xml:space="preserve">                   +:=---+*#%%#+=+####</text>
-<text class="ascii" x="28" y="332" xml:space="preserve">                    +:-=--+***###*##**</text>
-<text class="ascii" x="28" y="351" xml:space="preserve">                     #-:==++**####***#</text>
-<text class="ascii" x="28" y="370" xml:space="preserve">                      -:=++++******###</text>
-<text class="ascii" x="28" y="389" xml:space="preserve">                       +.::--=++**######@%%</text>
-<text class="ascii" x="28" y="408" xml:space="preserve">                       =:---+**########%%%%#%%%%</text>
-<text class="ascii" x="28" y="427" xml:space="preserve">                     =::--==+**######%%%%#%%%%*#%</text>
-<text class="ascii" x="28" y="446" xml:space="preserve">              %%####*==---=++****##%%%%%##%%%##########%%%</text>
-<text class="ascii" x="28" y="465" xml:space="preserve">         %%%#########*+====+***##%%%%%%%##%%%######*####%%%%</text>
-<text class="ascii" x="28" y="484" xml:space="preserve">      %###%%%%%#####%%%%###%%%%%%%%%%#%#%%%%######*###*#%%%%</text>
-<text class="ascii" x="28" y="503" xml:space="preserve">     ###%%%%%%#########%%%%%%%##%%#%%###%%%######*#%#**%#%%%</text>
-<text class="ascii" x="28" y="522" xml:space="preserve">    #*#%%%##%%#%###############%%%#%%%####%%###%##%%#*#%#%%%</text>
-<text class="ascii" x="28" y="541" xml:space="preserve">   %*##%%##*%%##%####%#%%#####%%%##%%####%%%%%%#*%%%#*%##%#%</text>
-<text class="ascii" x="28" y="560" xml:space="preserve">   %**#%%##*#%#######%%%%###%##%%##%########%##*%%#%#*%##%#%</text>
-<text class="ascii" x="28" y="579" xml:space="preserve">   %#**#%##**#######%%%%%#%%%#%#===####%***#*+*##**%##%#%##%</text>
-<text class="blue" x="670" y="190">Deepakreddy1510@github</text>
-<line class="line" x1="950" y1="184" x2="1288" y2="184"/>
-<text class="orange" x="670" y="242">· OS:</text>
-<text class="muted" x="822" y="242">················</text>
-<text class="white" x="970" y="242">Windows 11</text>
-<text class="orange" x="670" y="264">· Languages.Programming:</text>
-<text class="muted" x="870" y="264">················</text>
-<text class="white" x="1006" y="264">Python, C++, SQL</text>
-<text class="orange" x="670" y="288">· Languages.Computer:</text>
-<text class="muted" x="852" y="288">················</text>
-<text class="white" x="1000" y="288">JSON, LaTeX, YAML</text>
-<text class="orange" x="670" y="312">· Languages.Real:</text>
-<text class="muted" x="822" y="312">················</text>
-<text class="white" x="980" y="312">English, Hindi, Telugu</text>
-<text class="orange" x="670" y="336">· Tools:</text>
-<text class="muted" x="822" y="336">················</text>
-<text class="white" x="970" y="336">Docker, Git, pgAdmin</text>
-<text class="muted" x="200" y="290">················</text> 
-<text class="blue" x="670" y="430">Contact</text>
-<line class="line" x1="765" y1="424" x2="1288" y2="424"/>
-<text class="orange" x="670" y="458">· GitHub:</text>
-<text class="muted" x="822" y="458">················</text>
-<text class="white" x="960" y="458">github.com/Deepakreddy1510</text>
-<text class="orange" x="670" y="482">· Email.Personl:</text>
-<text class="muted" x="822" y="482">················</text>
-<text class="white" x="960" y="482">deepakreddy1510@gmail.com</text>
-<text class="orange" x="670" y="506">· Email.College:</text>
-<text class="muted" x="822" y="506">················</text>
-<text class="white" x="960" y="506">ee23btech11047@iith.ac.in</text>
-<text class="orange" x="670" y="530">· LinkedIn:</text>
-<text class="muted" x="822" y="530">················</text>
-<text class="white" x="960" y="530">Deepak Reddy</text>
-<text class="blue" x="670" y="570">GitHub Stats</text>
-<line class="line" x1="798" y1="564" x2="1288" y2="564"/>
-<text class="orange" x="670" y="600">· Repos:</text>
-<text class="muted" x="770" y="600">········</text>
-<text class="blue" x="895" y="600">28</text>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1366"
+     height="660"
+     viewBox="0 0 1366 660"
+     role="img"
+     aria-labelledby="title desc">
+
+  <title id="title">Deepak Reddy GitHub Terminal Profile</title>
+  <desc id="desc">Terminal-style GitHub profile card with ASCII portrait and grouped developer information.</desc>
+
+  <!-- Background -->
+  <rect x="1" y="1" width="1364" height="658" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+
+  <style>
+    text {
+      font-family:
+        ui-monospace,
+        SFMono-Regular,
+        Menlo,
+        Monaco,
+        Consolas,
+        "Liberation Mono",
+        monospace;
+    }
+
+    .ascii {
+      fill: #e6edf3;
+      font-size: 15px;
+    }
+
+    .title {
+      font-size: 17px;
+      font-weight: 700;
+      fill: #58a6ff;
+    }
+
+    .dash {
+      font-size: 17px;
+      fill: #8b949e;
+    }
+
+    .label {
+      font-size: 16px;
+      font-weight: 600;
+      fill: #ff9d00;
+    }
+
+    .dots {
+      font-size: 16px;
+      fill: #6e7681;
+    }
+
+    .value {
+      font-size: 16px;
+      fill: #79c0ff;
+    }
+
+    .section {
+      font-size: 16px;
+      fill: #e6edf3;
+      font-weight: 500;
+    }
+  </style>
+
+  <!-- ASCII Portrait -->
+  <text class="ascii" x="28" y="47" xml:space="preserve">                         %##***#%</text>
+  <text class="ascii" x="28" y="66" xml:space="preserve">                     #+=-::..::-::=*%</text>
+  <text class="ascii" x="28" y="85" xml:space="preserve">                  #=:.....:::::::::.:+*#%</text>
+  <text class="ascii" x="28" y="104" xml:space="preserve">                 +  .....::..::::::-....:=%</text>
+  <text class="ascii" x="28" y="123" xml:space="preserve">                # .......::::.::::::::::..-</text>
+  <text class="ascii" x="28" y="142" xml:space="preserve">                + .   .......:....:::::.::-</text>
+  <text class="ascii" x="28" y="161" xml:space="preserve">                 :     .....::----:--::-::#</text>
+  <text class="ascii" x="28" y="180" xml:space="preserve">                 = .::-=+++++*#####%#=:-:*</text>
+  <text class="ascii" x="28" y="199" xml:space="preserve">                 + ---==+*#####***##%#+--</text>
+  <text class="ascii" x="28" y="218" xml:space="preserve">                 *.-::::::-+*+=--=+*#%*:+</text>
+  <text class="ascii" x="28" y="237" xml:space="preserve">                 -:----=+-:+#*++=+**#%*+##</text>
+  <text class="ascii" x="28" y="256" xml:space="preserve">                =:=+***+==*%##*#%%%%%###%</text>
+  <text class="ascii" x="28" y="275" xml:space="preserve">                 %:-+*#*=--=*+**+##%%####</text>
+  <text class="ascii" x="28" y="294" xml:space="preserve">                  =:=+=--:-=++++=+*####%</text>
+  <text class="ascii" x="28" y="313" xml:space="preserve">                   +:=---+*#%%#+=+####</text>
+  <text class="ascii" x="28" y="332" xml:space="preserve">                    +:-=--+***###*##**</text>
+  <text class="ascii" x="28" y="351" xml:space="preserve">                     #-:==++**####***#</text>
+  <text class="ascii" x="28" y="370" xml:space="preserve">                      -:=++++******###</text>
+  <text class="ascii" x="28" y="389" xml:space="preserve">                       +.::--=++**######@%%</text>
+  <text class="ascii" x="28" y="408" xml:space="preserve">                       =:---+**########%%%%#%%%%</text>
+  <text class="ascii" x="28" y="427" xml:space="preserve">                     =::--==+**######%%%%#%%%%*#%</text>
+  <text class="ascii" x="28" y="446" xml:space="preserve">              %%####*==---=++****##%%%%%##%%%##########%%%</text>
+  <text class="ascii" x="28" y="465" xml:space="preserve">         %%%#########*+====+***##%%%%%%%##%%%######*####%%%%</text>
+  <text class="ascii" x="28" y="484" xml:space="preserve">      %###%%%%%#####%%%%###%%%%%%%%%%#%#%%%%######*###*#%%%%</text>
+  <text class="ascii" x="28" y="503" xml:space="preserve">     ###%%%%%%#########%%%%%%%##%%#%%###%%%######*#%#**%#%%%</text>
+  <text class="ascii" x="28" y="522" xml:space="preserve">    #*#%%%##%%#%###############%%%#%%%####%%###%##%%#*#%#%%%</text>
+  <text class="ascii" x="28" y="541" xml:space="preserve">   %*##%%##*%%##%####%#%%#####%%%##%%####%%%%%%#*%%%#*%##%#%</text>
+  <text class="ascii" x="28" y="560" xml:space="preserve">   %**#%%##*#%#######%%%%###%##%%##%########%##*%%#%#*%##%#%</text>
+  <text class="ascii" x="28" y="579" xml:space="preserve">   %#**#%##**#######%%%%%#%%%#%#===####%***#*+*##**%##%#%##%</text>
+
+  <!-- Title -->
+  <text x="610" y="120">
+    <tspan class="title">Deepakreddy1510@github</tspan>
+    <tspan class="dash"> --------------------------------------</tspan>
+  </text>
+
+  <!-- Basic Info -->
+  <text x="610" y="155">
+    <tspan class="label">Education:</tspan>
+    <tspan class="dots"> .......... </tspan>
+    <tspan class="value">IIT Hyderabad, B.Tech</tspan>
+  </text>
+
+  <text x="610" y="180">
+    <tspan class="label">OS:</tspan>
+    <tspan class="dots"> ................... </tspan>
+    <tspan class="value">Windows 11</tspan>
+  </text>
+
+  <text x="610" y="205">
+    <tspan class="label">IDE:</tspan>
+    <tspan class="dots"> .................. </tspan>
+    <tspan class="value">VS Code, Antigravity</tspan>
+  </text>
+
+  <!-- Tech Stack -->
+  <text x="610" y="255">
+    <tspan class="label">Languages:</tspan>
+    <tspan class="dots"> .......... </tspan>
+    <tspan class="value">Python, C++, SQL</tspan>
+  </text>
+
+  <text x="610" y="280">
+    <tspan class="label">Backend:</tspan>
+    <tspan class="dots"> ............ </tspan>
+    <tspan class="value">FastAPI, Python</tspan>
+  </text>
+
+  <text x="610" y="305">
+    <tspan class="label">Databases:</tspan>
+    <tspan class="dots"> .......... </tspan>
+    <tspan class="value">PostgreSQL, MySQL</tspan>
+  </text>
+
+  <text x="610" y="330">
+    <tspan class="label">Tools.Dev:</tspan>
+    <tspan class="dots"> .......... </tspan>
+    <tspan class="value">Docker, Git, pgAdmin</tspan>
+  </text>
+
+  <text x="610" y="355">
+    <tspan class="label">Tools.AI:</tspan>
+    <tspan class="dots"> ........... </tspan>
+    <tspan class="value">LangChain, LangGraph, Gemini API, Groq API</tspan>
+  </text>
+
+  <!-- Contact -->
+  <text x="610" y="410">
+    <tspan class="section">- Contact ------------------------------------------------</tspan>
+  </text>
+
+  <text x="610" y="440">
+    <tspan class="label">Email.Personal:</tspan>
+    <tspan class="dots"> ..... </tspan>
+    <tspan class="value">deepakreddy1510@gmail.com</tspan>
+  </text>
+
+  <text x="610" y="465">
+    <tspan class="label">Reddit:</tspan>
+    <tspan class="dots"> ............. </tspan>
+    <tspan class="value">Chemical-Question-91</tspan>
+  </text>
+
+  <!-- Status -->
+  <text x="610" y="520">
+    <tspan class="section">- Status -------------------------------------------------</tspan>
+  </text>
+
+  <text x="610" y="550">
+    <tspan class="label">Focus:</tspan>
+    <tspan class="dots"> .............. </tspan>
+    <tspan class="value">Building AI Agents</tspan>
+  </text>
+
+  <text x="610" y="575">
+    <tspan class="label">Quote:</tspan>
+    <tspan class="dots"> .............. </tspan>
+    <tspan class="value">Strive for progress, not perfection</tspan>
+  </text>
+
 </svg>
