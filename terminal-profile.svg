@@ -128,7 +128,7 @@
   <text x="610" y="280">
     <tspan class="label">Backend:</tspan>
     <tspan class="dots"> ............ </tspan>
-    <tspan class="value">FastAPI, Python</tspan>
+    <tspan class="value">Python</tspan>
   </text>
 
   <text x="610" y="305">
