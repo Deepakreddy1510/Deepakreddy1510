@@ -115,7 +115,7 @@
   <text x="610" y="205">
     <tspan class="label">IDE:</tspan>
     <tspan class="dots"> .................. </tspan>
-    <tspan class="value">VS Code, Antigravity</tspan>
+    <tspan class="value">VS Code, Antigravity, Cursor</tspan>
   </text>
 
   <!-- Tech Stack -->
