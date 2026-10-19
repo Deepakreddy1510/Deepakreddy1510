@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     xml:space="preserve"
      width="1366"
      height="660"
      viewBox="0 0 1366 660"
@@ -27,7 +26,6 @@
     .ascii {
       fill: #e6edf3;
       font-size: 15px;
-      white-space: pre;
     }
 
     .title {
@@ -96,90 +94,90 @@
   <text class="ascii" x="28" y="579" xml:space="preserve">   %#**#%##**#######%%%%%#%%%#%#===####%***#*+*##**%##%#%##%</text>
 
   <!-- Title -->
-  <text x="610" y="120" xml:space="preserve">
+  <text x="610" y="120">
     <tspan class="title">Deepakreddy1510@github</tspan>
     <tspan class="dash"> --------------------------------------</tspan>
   </text>
 
   <!-- Basic Info -->
-  <text x="610" y="155" xml:space="preserve">
+  <text x="610" y="155">
     <tspan class="label">Education:</tspan>
     <tspan class="dots"> .......... </tspan>
     <tspan class="value">IIT Hyderabad, B.Tech</tspan>
   </text>
 
-  <text x="610" y="180" xml:space="preserve">
+  <text x="610" y="180">
     <tspan class="label">OS:</tspan>
     <tspan class="dots"> ................... </tspan>
     <tspan class="value">Windows 11</tspan>
   </text>
 
-  <text x="610" y="205" xml:space="preserve">
+  <text x="610" y="205">
     <tspan class="label">IDE:</tspan>
     <tspan class="dots"> .................. </tspan>
     <tspan class="value">VS Code, Antigravity, Cursor</tspan>
   </text>
 
   <!-- Tech Stack -->
-  <text x="610" y="255" xml:space="preserve">
+  <text x="610" y="255">
     <tspan class="label">Languages:</tspan>
     <tspan class="dots"> .......... </tspan>
     <tspan class="value">Python, C++, SQL</tspan>
   </text>
 
-  <text x="610" y="280" xml:space="preserve">
+  <text x="610" y="280">
     <tspan class="label">Backend:</tspan>
     <tspan class="dots"> ............ </tspan>
     <tspan class="value">Python</tspan>
   </text>
 
-  <text x="610" y="305" xml:space="preserve">
+  <text x="610" y="305">
     <tspan class="label">Databases:</tspan>
     <tspan class="dots"> .......... </tspan>
     <tspan class="value">PostgreSQL, MySQL</tspan>
   </text>
 
-  <text x="610" y="330" xml:space="preserve">
+  <text x="610" y="330">
     <tspan class="label">Tools.Dev:</tspan>
     <tspan class="dots"> .......... </tspan>
     <tspan class="value">Docker, Git, pgAdmin</tspan>
   </text>
 
-  <text x="610" y="355" xml:space="preserve">
+  <text x="610" y="355">
     <tspan class="label">Tools.AI:</tspan>
     <tspan class="dots"> ........... </tspan>
     <tspan class="value">LangChain, LangGraph, Gemini API, Groq API</tspan>
   </text>
 
   <!-- Contact -->
-  <text x="610" y="410" xml:space="preserve">
+  <text x="610" y="410">
     <tspan class="section">- Contact ------------------------------------------------</tspan>
   </text>
 
-  <text x="610" y="440" xml:space="preserve">
+  <text x="610" y="440">
     <tspan class="label">Email.Personal:</tspan>
     <tspan class="dots"> ..... </tspan>
     <tspan class="value">deepakreddy1510@gmail.com</tspan>
   </text>
 
-  <text x="610" y="465" xml:space="preserve">
+  <text x="610" y="465">
     <tspan class="label">Reddit:</tspan>
     <tspan class="dots"> ............. </tspan>
     <tspan class="value">Chemical-Question-91</tspan>
   </text>
 
   <!-- Status -->
-  <text x="610" y="520" xml:space="preserve">
+  <text x="610" y="520">
     <tspan class="section">- Status -------------------------------------------------</tspan>
   </text>
 
-  <text x="610" y="550" xml:space="preserve">
+  <text x="610" y="550">
     <tspan class="label">Focus:</tspan>
     <tspan class="dots"> .............. </tspan>
-    <tspan class="value">Building AI Applications & Mastering DSA</tspan>
+    <tspan class="value">Building AI Applications &amp; Mastering DSA</tspan>
   </text>
 
-  <text x="610" y="575" xml:space="preserve">
+  <text x="610" y="575">
     <tspan class="label">Quote:</tspan>
     <tspan class="dots"> .............. </tspan>
     <tspan class="value">Head Down, Keep pushing your limits</tspan>
