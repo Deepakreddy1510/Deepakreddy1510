@@ -146,7 +146,7 @@
   <text x="610" y="355">
     <tspan class="label">Tools.AI:</tspan>
     <tspan class="dots"> ........... </tspan>
-    <tspan class="value">LangChain, LangGraph, Gemini API, Groq API</tspan>
+    <tspan class="value">Codex, LangChain, LangGraph, Gemini API, Groq API</tspan>
   </text>
 
   <!-- Contact -->
